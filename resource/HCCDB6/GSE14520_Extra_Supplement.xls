@@ -1,0 +1,243 @@
+Affy_GSM	Predicted risk Metastasis Signature	Agilent_GSM	Gender	Age	HBV viral status	ALT(>/<=50U/L)	Main Tumor Size (>/<=5 cm)	Multinodular	Cirrhosis	TNM staging	BCLC staging	CLIP staging	AFP (>/<=300ng/ml)	Survival status	Survival months	Recurr status	Recurr months
+GSM363205	low		M	70	CC	low	small	N	N	I	0	0	high	0	58	0	58
+GSM363115	low		M	74	CC	low	small	N	Y	I	A	0	low	0	66.6	0	66.6
+GSM362970	low		M	39	CC	low	small	N	N	I	0	0	low	0	67.3	0	67.3
+GSM363354	high		M	66	N	low	large	N	Y	I	A	1	high	1	10.4	1	10.4
+GSM363039	low		M	54	N	low	large	N	Y	I	A	0	low	0	52.8	0	52.8
+GSM363209	low		F	45	CC	low	small	N	Y	I	A	1	high	0	60.8	0	60.8
+GSM363344	low		F	52	CC	low	small	N	Y	II	A	0	low	0	38.7	0	38.7
+GSM363271	high		M	52	CC	low	large	N	Y	IIIC	C	0	low	0	28.7	0	28.7
+GSM363404	low		M	46	CC	low	large	N	Y	IIIA	C	4	high	1	12	1	12
+GSM363217	high		M	58	CC	low	small	Y	N	IIIC	C	1	low	0	54.5	0	54.5
+GSM363053	low		F	57	CC	low	small	N	Y	I	A	0	low	0	57	0	57
+GSM363295	low	GSM358056	M	63	CC	low	large	N	Y	I	C	3	high	0	54.9	0	54.9
+GSM363272	low		M	65	CC	low	large	Y	Y	II	A	2	high	0	56.3	0	56.3
+GSM363164	low	GSM358055	F	27	CC	low	small	N	N	I	A	1	high	0	55.2	0	55.2
+GSM362965	high		M	57	CC	low	large	N	N	II	A	0	low	0	66.6	0	66.6
+GSM363126	high		M	65	CC	low	large	N	Y	IIIB	A	1	high	0	59.5	1	59.5
+GSM363082	low		M	64	CC	low	small	N	Y	II	0	0	low	0	57	0	57
+GSM363176	low		F	65	CC	low	small	N	Y	I	A	0	low	0	50.7	0	50.7
+GSM363099	high	GSM358045	M	50	CC	low	large	Y	Y	III	B	2	high	1	30.9	1	30.9
+GSM363316	low	GSM358062	F	35	AVR-CC	low	small	N	Y	I	A	1	high	0	54.7	0	54.7
+GSM363178	high		M	42	CC	low	small	N	N	II	A	0	low	0	57.3	1	41.6
+GSM363343	low		F	30	CC	low	small	N	N	I	A	1	high	0	65.1	0	65.1
+GSM363033	high		M	63	AVR-CC	low	small	N	Y	I	A	1	high	1	36.4	1	36
+GSM363055	high		F	55	CC	low	large	N	Y	I	A	1	high	0	7.3	0	7.3
+GSM363100	high		M	56	CC	low	large	N	Y	IIIB	C	4	high	1	3.4	1	1.5
+GSM363249	high		F	60	CC	low	small	N	Y	II	A	1	high	0	59.2	0	59.2
+GSM363420	high	GSM358083	M	72	.	low	small	N	Y	.	.	.	high	1	7.3	1	0.2
+GSM362952	low	GSM358082	M	61	CC	low	small	N	Y	I	A	1	high	0	54.3	0	54.3
+GSM363130	low		M	72	CC	low	large	N	Y	II	A	0	low	0	61.8	0	61.8
+GSM363149	low		M	53	CC	low	large	N	N	I	A	0	low	0	14.4	0	14.4
+GSM363424	low	GSM358085	M	43	.	low	small	N	Y	.	.	.	low	0	63.8	0	63.8
+GSM363337	high		F	53	CC	low	small	N	Y	I	A	1	high	0	65.5	0	65.5
+GSM363031	low		M	58	CC	low	small	N	Y	II	A	0	low	0	52.8	1	20.8
+GSM363166	low	GSM358079	M	59	CC	low	large	N	Y	IIIB	A	1	high	0	53.8	0	53.8
+GSM363049	high		M	45	AVR-CC	low	.	N	Y	I	A	0	high	0	62.4	0	62.4
+GSM363032	high		M	52	CC	low	large	N	Y	IIIB	A	1	high	0	24.9	0	24.9
+GSM363072	low		M	49	CC	low	small	N	N	I	A	0	low	0	10.4	0	10.4
+GSM363444	high	GSM358098	M	46	.	low	small	N	Y	.	.	.	low	1	7.3	1	5.3
+GSM363289	low	GSM358072	M	46	CC	low	small	N	Y	I	A	1	high	0	54.2	0	54.2
+GSM363446	low	GSM358099	M	50	.	low	large	N	Y	.	.	.	high	0	52.1	0	52.1
+GSM363296	high	GSM358033	F	52	AVR-CC	low	small	N	Y	II	A	2	high	1	27.5	1	27.5
+GSM363235	high		M	41	CC	low	large	Y	Y	III	B	2	high	0	32.8	0	32.8
+GSM362958	low		M	56	CC	low	large	N	Y	II	A	0	low	1	28.2	1	28.2
+GSM363366	low		M	73	CC	low	large	N	Y	I	A	0	low	0	52.3	0	52.3
+GSM363311	low	GSM358058	M	77	CC	low	large	N	Y	II	A	0	low	0	19	0	19
+GSM363071	low		M	35	CC	low	large	Y	Y	IIIB	C	3	high	1	13.8	1	13.8
+GSM363329	low		M	56	AVR-CC	low	small	N	Y	I	A	0	low	0	53.2	0	53.2
+GSM363200	low	GSM358053	M	26	CC	low	small	N	Y	II	A	1	high	1	23.9	1	23.9
+GSM362984	low		M	49	CC	low	small	N	Y	II	A	0	low	0	51.4	0	51.4
+GSM363422	high	GSM358084	M	67	.	low	small	N	Y	.	.	.	low	0	51.6	0	51.6
+GSM363037	high		M	54	AVR-CC	low	small	N	Y	I	A	0	low	0	61.2	0	61.2
+GSM363362	low		M	53	CC	low	small	N	Y	II	A	0	low	1	5.8	1	5.8
+GSM363357	high		F	47	AVR-CC	low	large	N	Y	II	A	0	low	1	8.8	1	8.8
+GSM363080	high	GSM358075	M	49	CC	low	large	N	Y	IIIB	C	5	high	1	2.3	1	2.3
+GSM363125	high		M	43	AVR-CC	low	large	N	Y	II	A	1	high	1	16.5	1	16.5
+GSM363106	high		M	53	N	low	large	N	Y	IIIA	C	2	high	1	14.6	1	14.6
+GSM362988	low		F	52	AVR-CC	low	small	N	Y	I	0	1	high	0	51.1	0	51.1
+GSM363107	low		F	71	AVR-CC	low	small	N	Y	I	A	1	high	1	7	1	7
+GSM363355	high		M	53	CC	low	small	N	Y	II	A	0	low	1	9.1	1	6.2
+GSM363087	low		M	40	N	low	small	N	Y	I	A	1	high	0	54	1	18.5
+GSM363268	high		M	56	AVR-CC	low	small	N	Y	I	A	1	high	0	56	0	56
+GSM363015	high		M	39	CC	low	large	N	N	I	A	1	high	0	59.7	0	59.7
+GSM363014	low	GSM358039	M	61	CC	low	small	N	Y	I	A	0	low	0	60.7	1	32.7
+GSM363364	low		M	49	CC	low	small	N	Y	I	A	0	low	1	27.1	1	10.2
+GSM363034	low		F	30	CC	low	small	N	N	I	A	0	low	1	45.9	1	45.9
+GSM363428	high	GSM358087	M	76	.	low	large	N	Y	.	.	.	high	1	3.8	1	3.8
+GSM363078	high	GSM358034	M	47	CC	low	small	N	Y	IIIB	A	0	low	1	57.9	1	57.9
+GSM363202	low		M	33	CC	low	small	N	Y	I	A	0	low	0	60	1	6.7
+GSM363332	high		M	54	AVR-CC	low	large	N	Y	I	A	1	high	1	12.6	1	2.5
+GSM363313	low		M	71	CC	low	large	N	Y	II	A	0	low	0	36.6	1	36.6
+GSM363017	high		M	50	AVR-CC	low	large	Y	Y	IIIB	B	2	low	1	12.7	1	8.4
+GSM363294	high		M	25	AVR-CC	low	small	Y	Y	II	A	2	high	0	62.6	0	62.6
+GSM363330	high		M	50	CC	low	large	N	Y	I	A	0	low	1	12.6	1	12.6
+GSM363426	high	GSM358086	M	33	.	low	large	Y	Y	.	.	.	high	1	1.8	1	1.8
+GSM363360	low		M	71	CC	low	small	N	Y	I	A	0	high	0	53.3	0	53.3
+GSM363008	high		F	50	CC	low	small	Y	Y	II	B	1	low	0	58.4	1	23.6
+GSM363143	high		F	48	CC	low	small	N	Y	II	0	0	low	1	32.6	1	32.6
+GSM363448	low	GSM358100	F	60	.	low	small	N	Y	.	.	.	low	0	51.7	0	51.7
+GSM363127	high		M	55	CC	low	small	N	Y	II	A	1	high	1	22.2	1	14.6
+GSM363102	low		M	49	CC	low	large	N	Y	II	A	0	low	1	37.9	1	37.9
+GSM363151	low		F	70	CC	low	small	Y	Y	II	A	1	low	0	67.1	0	67.1
+GSM363124	low		M	67	CC	low	small	N	Y	I	A	0	.	0	53.5	0	53.5
+GSM712542	high		M	61	CC	low	small	N	Y	IIIA	C	2	high	1	7.5	1	4.4
+GSM363335	low		M	45	CC	low	small	N	Y	I	A	0	low	0	59.4	0	59.4
+GSM363350	high		M	43	CC	low	large	N	Y	I	A	1	high	0	62.9	0	62.9
+GSM363386	high		M	61	CC	low	large	N	Y	IIIA	C	2	high	1	10	1	1.9
+GSM363207	high		M	53	CC	low	large	N	Y	I	A	1	high	1	53.3	1	53.3
+GSM362986	high		M	55	AVR-CC	low	small	N	Y	II	0	0	low	0	64.5	0	64.5
+GSM362972	low		M	45	CC	low	small	N	Y	I	0	0	low	0	66	0	66
+GSM363186	low		M	45	AVR-CC	low	small	N	Y	II	A	0	low	1	7.6	1	7.6
+GSM363288	low	GSM358041	M	56	CC	low	small	N	Y	I	A	1	high	0	60.3	1	35.2
+GSM363016	low		M	44	AVR-CC	low	large	Y	Y	IIIA	B	1	low	0	2	0	2
+GSM363341	high		M	32	CC	low	large	N	Y	II	A	1	high	0	65.4	0	65.4
+GSM363243	low		M	69	CC	low	small	N	Y	I	A	1	low	0	55.8	0	55.8
+GSM363168	low		M	51	CC	low	large	Y	Y	IIIA	B	1	low	0	53.8	0	53.8
+GSM363051	high		M	43	CC	low	large	Y	Y	IIIA	B	2	high	0	20.6	0	20.6
+GSM363098	high		M	60	AVR-CC	low	small	N	Y	II	0	1	high	0	56.9	1	21.3
+GSM363314	low		F	48	AVR-CC	low	small	Y	N	II	A	2	high	0	57.1	0	57.1
+GSM363170	low		M	59	CC	low	small	N	Y	I	0	0	low	0	53.3	0	53.3
+GSM363029	high		M	48	CC	low	small	N	Y	I	A	0	low	0	51.3	0	51.3
+GSM362950	high	GSM358050	M	45	CC	low	small	N	Y	I	A	1	high	0	57.5	1	30.1
+GSM363298	high		M	52	CC	low	small	N	N	I	A	1	high	0	53.6	1	40.1
+GSM363265	high		M	41	CC	low	small	Y	Y	II	A	1	low	0	65.1	0	65.1
+GSM363038	low		M	41	CC	low	small	N	Y	II	A	0	low	1	15.1	1	5.8
+GSM363309	high		M	34	CC	low	small	N	Y	II	0	0	low	1	53	1	53
+GSM363104	low	GSM358067	M	59	CC	low	small	N	Y	I	A	0	low	1	35.9	1	29.9
+GSM363393	high		M	46	AVR-CC	low	small	Y	Y	IIIA	C	3	high	1	4	1	4
+GSM363011	high		M	57	CC	low	small	Y	Y	II	B	2	high	1	17.6	1	9.1
+GSM363180	low	GSM358046	M	52	CC	low	large	Y	Y	IIIA	B	2	high	1	47.1	1	3.2
+GSM363048	low		M	50	AVR-CC	low	large	Y	Y	IIIA	B	2	high	1	20.3	1	20.3
+GSM363077	low		M	40	CC	low	small	N	Y	I	0	1	high	0	52.7	0	52.7
+GSM363144	high		M	72	N	low	small	N	Y	I	A	0	low	0	51.1	0	51.1
+GSM363336	low	GSM358035	M	63	CC	low	small	N	Y	I	A	0	low	1	8	1	8
+GSM363438	high	GSM358095	M	55	.	low	small	N	Y	.	.	.	low	0	56.6	0	56.6
+GSM363073	high		M	41	CC	low	small	N	Y	II	A	1	high	1	26.5	1	21.8
+GSM362977	low		M	41	CC	low	large	N	Y	I	A	0	low	0	66.3	0	66.3
+GSM363012	low		M	61	CC	low	large	N	Y	I	A	0	low	1	4.5	1	4.5
+GSM363328	low		M	63	AVR-CC	low	large	N	Y	I	A	0	high	1	12	1	12
+GSM363215	low		M	48	CC	low	small	N	Y	I	0	1	high	0	18.6	0	18.6
+GSM363400	low		M	58	CC	low	small	N	Y	II	A	0	low	0	55.6	1	19.1
+GSM363358	low	GSM358077	M	56	CC	low	small	N	Y	II	A	0	low	0	53.9	1	9.4
+GSM363391	low		M	55	CC	low	small	N	Y	II	0	0	low	0	57.3	1	21.5
+GSM363333	high		M	48	CC	low	large	N	Y	II	A	1	high	1	13.5	1	13.5
+GSM363083	high		M	45	AVR-CC	low	small	N	N	I	0	0	low	0	53.3	0	53.3
+GSM363218	high		M	48	CC	low	large	N	Y	IIIB	A	3	high	1	15.2	1	3.9
+GSM363086	low		M	44	AVR-CC	low	small	Y	Y	II	A	2	high	0	60.5	0	60.5
+GSM363267	low		M	54	CC	low	small	Y	Y	II	A	1	low	1	47.9	1	13.4
+GSM362994	low		M	49	CC	low	small	N	Y	II	A	1	high	0	54.8	1	54.8
+GSM363224	low		M	70	CC	low	small	N	Y	I	A	1	high	0	57.9	1	13.1
+GSM363269	low	GSM358060	M	55	AVR-CC	low	small	N	Y	I	A	0	low	1	52.7	1	12.4
+GSM363297	high		F	58	.	low	large	N	Y	IIIB	A	1	high	0	3	0	3
+GSM363182	low		M	50	CC	low	small	N	Y	I	A	0	low	0	52.7	0	52.7
+GSM363109	high	GSM358054	M	50	CC	low	small	N	Y	II	A	0	low	0	55.2	0	55.2
+GSM363432	low	GSM358089	M	41	.	low	large	N	Y	.	.	.	low	1	34.4	1	29.1
+GSM363054	high	GSM358078	M	51	CC	low	large	N	Y	II	A	0	low	0	53.8	0	53.8
+GSM363075	low		F	54	CC	low	large	N	Y	IIIB	C	1	low	1	18	1	18
+GSM363129	high		M	34	CC	low	large	Y	Y	IIIA	C	3	high	1	3.5	1	3.2
+GSM363101	high		M	50	CC	low	small	N	Y	I	A	1	high	0	56.3	0	56.3
+GSM363378	high		M	47	AVR-CC	low	small	N	Y	I	A	0	low	1	31.9	1	13.3
+GSM363232	low		M	49	AVR-CC	low	small	N	N	II	A	0	low	0	57.9	1	30.7
+GSM362993	low		M	50	CC	low	small	N	Y	I	A	1	high	0	3.8	1	3.8
+GSM363150	high		M	68	CC	low	large	N	Y	II	A	1	high	1	3.3	1	3.3
+GSM363142	low		M	28	CC	high	small	Y	Y	II	B	2	high	1	46.1	1	46.1
+GSM363013	high		M	58	CC	high	small	N	Y	II	A	1	high	1	7.7	1	7.7
+GSM363331	low	GSM358043	F	54	AVR-CC	high	large	N	Y	I	A	1	high	1	36.5	1	28.4
+GSM363128	high	GSM358032	M	36	AVR-CC	high	small	N	Y	II	A	0	low	1	30.1	1	10
+GSM363315	low		M	43	CC	high	small	N	Y	II	A	1	high	0	65.4	0	65.4
+GSM363442	high	GSM358097	M	42	.	high	small	Y	Y	.	.	.	high	1	4.6	1	1.3
+GSM363384	high		M	43	AVR-CC	high	small	N	Y	II	A	0	low	1	51.6	1	51.6
+GSM363147	high		M	44	AVR-CC	high	small	Y	Y	II	B	1	low	1	28.7	1	28.7
+GSM363368	low		M	66	.	high	small	N	Y	.	.	.	high	1	15.4	1	11
+GSM362947	low	GSM358029	M	67	CC	high	large	Y	Y	IIIA	B	1	low	1	59.2	1	50
+GSM363081	high		M	34	CC	high	large	N	Y	IIIA	C	1	low	1	5.2	1	0.1
+GSM363052	high	GSM358071	M	46	CC	high	large	Y	Y	IIIA	C	2	low	1	14.3	1	14.3
+GSM362966	low		M	58	AVR-CC	high	small	N	Y	I	A	0	low	0	66.1	0	66.1
+GSM363169	high		M	45	AVR-CC	high	large	Y	Y	IIIA	B	2	high	0	39.4	0	39.4
+GSM363085	high		M	49	CC	high	large	Y	Y	IIIA	B	2	high	1	54.8	1	46.3
+GSM363388	high		F	58	CC	high	small	N	Y	I	0	0	low	0	57.3	1	11.6
+GSM363196	low		M	42	CC	high	small	N	Y	I	A	0	low	0	57.7	1	51.1
+GSM362948	low	GSM358036	M	37	AVR-CC	high	small	Y	Y	II	A	1	low	0	61.4	1	8.8
+GSM363266	low		M	35	CC	high	small	N	Y	IIIB	C	1	low	1	2.5	1	1.5
+GSM363326	high		M	37	CC	high	small	N	Y	I	A	2	high	1	37.2	0	37.2
+GSM363230	low		M	40	CC	high	large	N	Y	II	A	0	low	0	4.8	0	4.8
+GSM363237	high	GSM358047	M	69	CC	high	large	N	Y	I	A	1	high	0	57.5	1	4.7
+GSM363204	high		M	53	CC	high	large	N	Y	IIIA	C	2	high	1	14.1	1	8.4
+GSM362992	low		F	41	CC	high	large	N	Y	I	A	1	.	0	64.3	0	64.3
+GSM363264	low		M	43	CC	high	large	Y	Y	III	B	1	low	1	17.8	1	17.8
+GSM363312	low		F	53	CC	high	small	N	Y	II	A	0	low	0	55.3	0	55.3
+GSM363123	low	GSM358063	M	48	AVR-CC	high	large	N	Y	II	A	0	low	0	42.7	0	42.7
+GSM363245	high	GSM358049	M	47	CC	high	large	Y	Y	IIIA	C	3	high	0	57.5	0	57.5
+GSM363192	low		M	50	CC	high	small	N	Y	I	0	0	low	0	52.2	0	52.2
+GSM363291	low		M	54	CC	high	small	N	Y	I	A	0	low	1	50.1	1	43.2
+GSM363273	low		M	56	CC	high	small	N	Y	I	A	0	low	0	58	0	58
+GSM363148	high		M	64	CC	high	small	N	Y	II	A	2	high	0	52.4	1	11.8
+GSM363263	high		M	39	AVR-CC	high	large	N	Y	IIIA	C	2	high	1	3	1	3
+GSM362978	low		M	61	AVR-CC	high	small	N	Y	I	A	1	low	1	28.8	1	28.8
+GSM363056	high		F	59	AVR-CC	high	small	Y	Y	II	B	2	high	1	19.2	1	19.2
+GSM363310	high		M	41	AVR-CC	high	small	N	Y	II	A	0	low	1	23.5	1	23.5
+GSM363275	low		F	67	CC	high	small	Y	Y	IIIB	A	1	low	0	59.8	0	59.8
+GSM363352	high	GSM358081	M	51	CC	high	small	N	Y	II	A	1	high	1	16.2	1	5.1
+GSM363293	low		M	54	CC	high	small	N	Y	I	A	0	low	0	61.5	1	27.9
+GSM363292	high	GSM358042	M	53	CC	high	small	N	Y	I	A	0	low	0	59.9	0	59.9
+GSM363211	high		M	61	CC	high	large	Y	Y	IIIA	C	3	high	1	8.9	1	8.9
+GSM362954	high	GSM358074	M	40	CC	high	small	N	Y	I	A	0	low	0	5.5	1	1.4
+GSM363070	high		M	50	.	high	large	N	Y	.	.	.	high	0	57	0	57
+GSM363339	high		F	49	AVR-CC	high	small	N	Y	II	0	1	high	0	65.4	0	65.4
+GSM363270	low	GSM358069	M	58	CC	high	small	Y	Y	II	B	1	low	1	21.3	1	21.3
+GSM363371	low		F	69	CC	high	small	N	Y	I	A	0	low	0	66.3	0	66.3
+GSM363009	high		M	50	CC	high	large	N	Y	II	A	1	high	0	58.9	0	58.9
+GSM362982	high		M	39	CC	high	small	N	Y	I	A	0	low	0	64.6	0	64.6
+GSM363188	low		M	35	AVR-CC	high	small	N	Y	II	A	0	low	0	57.3	1	46.3
+GSM363251	low	GSM358026	M	47	CC	high	small	Y	Y	IIIA	C	2	low	1	19.6	1	19.6
+GSM363057	high		M	63	CC	high	small	Y	Y	II	A	1	low	1	60.5	1	22.8
+GSM363030	high		M	58	CC	high	small	N	Y	IIIA	A	2	high	1	4.5	1	4.5
+GSM363274	high	GSM358038	M	53	CC	high	small	Y	Y	II	B	2	high	1	26.9	1	26.9
+GSM363146	high	GSM358057	M	50	CC	high	large	Y	Y	IIIA	C	2	low	0	54.9	0	54.9
+GSM362983	low	GSM358028	M	32	CC	high	small	N	Y	I	A	1	high	0	64.2	0	64.2
+GSM363222	low		M	59	AVR-CC	high	small	N	Y	I	A	0	low	0	48.4	1	49.1
+GSM363074	high	GSM358052	M	41	CC	high	small	N	Y	II	A	0	low	0	57.7	0	57.7
+GSM363436	high	GSM358094	M	48	.	high	large	N	Y	.	.	.	high	1	3.8	1	0.8
+GSM363290	high		F	63	CC	high	small	N	Y	I	0	0	low	0	54.7	0	54.7
+GSM362987	low	GSM358031	M	60	AVR-CC	high	small	N	Y	II	A	0	low	0	60.4	1	57.7
+GSM363035	low		M	40	CC	high	large	N	Y	I	A	0	low	0	56.1	1	24.6
+GSM363036	low		M	65	CC	high	small	N	Y	II	A	1	low	1	32.7	1	4.6
+GSM363079	high		M	53	CC	high	large	N	Y	IIIA	C	2	high	1	7.8	1	5.2
+GSM363317	high		M	58	CC	high	small	N	Y	I	0	1	high	0	62.8	1	8
+GSM363172	high		M	67	CC	high	small	N	Y	II	A	0	low	1	6.7	1	6.7
+GSM363084	low		M	67	CC	high	large	N	Y	I	A	0	low	0	62.6	1	48
+GSM363239	high		M	54	AVR-CC	high	small	Y	Y	II	A	1	low	1	42.2	1	6.8
+GSM363121	high		M	39	CC	high	small	Y	Y	IIIC	C	3	high	0	51.2	0	51.2
+GSM363108	low	GSM358037	M	49	CC	high	large	N	Y	II	A	0	low	0	48.8	0	48.8
+GSM363152	low		M	39	CC	high	large	Y	Y	IIIA	C	4	high	1	8.3	1	8.3
+GSM363105	high		M	36	AVR-CC	high	small	N	Y	II	A	1	low	0	9.5	1	9.5
+GSM363327	low		M	52	AVR-CC	high	small	N	Y	I	A	0	low	0	60.1	0	60.1
+GSM363194	high		M	44	AVR-CC	high	small	Y	Y	II	B	2	high	0	4.5	0	4.5
+GSM363346	low		M	51	AVR-CC	high	large	N	Y	IIIB	A	0	low	1	14.3	1	7.3
+GSM363440	high	GSM358096	M	73	.	high	large	Y	N	.	.	.	high	0	55.5	1	20
+GSM363174	high		M	48	CC	high	small	Y	Y	II	A	2	high	0	67.1	0	67.1
+GSM362976	low		M	50	CC	high	small	N	Y	I	A	0	low	0	67	1	51.1
+GSM363190	high		M	41	AVR-CC	high	small	N	Y	II	A	1	low	0	4.8	1	2.7
+GSM363069	high	GSM358040	M	34	CC	high	large	N	Y	IIIA	C	2	high	1	13.6	1	1.7
+GSM363247	low		M	44	CC	high	small	N	N	I	A	0	low	0	52.9	0	52.9
+GSM363076	high	GSM358068	M	35	CC	high	large	Y	Y	IIIB	C	3	high	1	23	1	23
+GSM363376	low		M	62	CC	high	small	N	Y	I	0	0	low	0	61.5	0	61.5
+GSM362959	high		M	45	AVR-CC	high	small	N	Y	I	A	1	high	1	9.5	1	9.5
+GSM363226	low		M	54	AVR-CC	high	large	N	Y	IIIC	C	0	low	0	60.4	1	19.4
+GSM363010	high		M	47	CC	high	large	N	Y	I	A	1	.	0	62	0	62
+GSM363220	high	GSM358076	M	59	AVR-CC	high	large	Y	Y	IIIA	B	2	high	0	54.2	1	29.9
+GSM362964	low		M	50	CC	high	small	N	Y	I	A	0	low	0	67.4	0	67.4
+GSM362956	high	GSM358080	M	33	AVR-CC	high	large	Y	Y	IIIA	B	1	.	1	13.3	1	13.3
+GSM363348	high		M	41	CC	high	small	N	Y	I	A	0	low	0	14.3	1	4.2
+GSM363213	low		M	50	N	high	large	N	N	II	C	0	low	0	57.6	1	2.9
+GSM363198	high	GSM358051	M	41	AVR-CC	high	small	N	Y	I	A	0	low	0	57.9	0	57.9
+GSM363184	high		M	34	AVR-CC	high	large	Y	Y	IIIA	B	1	low	0	16.3	0	16.3
+GSM362960	high		M	21	CC	high	small	N	Y	II	A	1	high	0	66.1	0	66.1
+GSM363145	high		M	43	CC	high	small	N	N	I	A	0	low	1	33	1	26.4
+GSM363050	low	GSM358073	M	32	AVR-CC	high	small	Y	Y	II	B	2	high	0	54.2	1	2.8
+GSM362949	high	GSM358044	M	37	.	high	small	Y	Y	.	.	.	low	1	18.2	1	18.2
+GSM363430	high	GSM358088	M	47	.	high	small	N	Y	.	.	.	high	1	3.7	1	3.7
+GSM363241	low	GSM358070	M	55	CC	high	large	N	Y	I	A	1	high	0	54.2	0	54.2
+GSM363122	low		M	49	AVR-CC	high	small	N	Y	I	A	0	low	0	55.4	0	55.4
+GSM362971	low		M	52	AVR-CC	high	small	N	Y	I	A	2	high	1	48.1	1	40.4
